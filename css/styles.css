@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+  h1{
+     margin: 25px auto 0 auto;
+     font-family: 'Sacramento', cursive;
+     font-size: 2em;
+     color: #66BFBF
+     ;
+    }
+    h2{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        color: #66BFBF;
+        font-weight: normal;
+        line-height: 2;
+        padding-bottom: 10px;
+    }
+    h3{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        color: #11999E;
+    }
+         .top-container{
+            position: relative;
+            padding-top: 100px;
+            background-color: #EAF6F6
+            ;
+  
+             }
+            .pro{
+                text-decoration: underline;
+            }
+            .top-cloud{
+                position: absolute;
+                right: 300px;
+                top: 40px;
+            }
+            .bottom-cloud{
+                margin: 20px;
+                position:fixed;
+                object-position: 1em;
+                left: 5px;
+                bottom: 100px;
+            }
+            .maj1{
+                width: 500px;
+            }
+            .skill-row{
+                width: 50%;
+                margin: 100px auto 100px auto;
+                text-align: left;
+                
+            }
+            
+            .footer-link{
+                color: #11999E;
+                
+
+            }
+
+            .coder{
+                width: 30%;
+                float: left;
+                margin-right: 30px;
+            }
+            .lion{
+                width: 30%;
+                float: right;
+                margin-left: 30px;
+            }
+            .hellop1{
+                color: #40514E;
+                width: 30%;
+                margin: auto;
+            } 
+            p{
+                line-height: 2;
+            } 
+            hr{
+                border: dotted #EAF6F6;
+                border-bottom: none;
+                width: 4%;
+                margin: 100px auto;
+
+            }
+
+            .btn {
+                background: #3498db;
+                background-image: -webkit-linear-gradient(top, #66BFBF, #79e2d1);
+                background-image: -moz-linear-gradient(top, #66BFBF, #79e2d1);
+                background-image: -ms-linear-gradient(top, #66BFBF, #79e2d1);
+                background-image: -o-linear-gradient(top, #66BFBF, #79e2d1);
+                background-image: linear-gradient(to bottom, #66BFBF, #79e2d1);
+                -webkit-border-radius: 29;
+                -moz-border-radius: 29;
+                border-radius: 8px;
+                font-family: 'Montserrat', sans-serif;
+                color: #ffffff;
+                font-size: 29px;
+                padding: 0px 20px 0px 20px;
+                text-decoration: none;
+              }
+              .contact-me{
+                width: 40%;
+                margin: 40px auto 60px;
+              }
+              .btn:hover {
+                background: #3cb0fd;
+                background-image: -webkit-linear-gradient(top, #79e2d1, #66BFBF);
+                background-image: -moz-linear-gradient(top, #79e2d1, #66BFBF);
+                background-image: -ms-linear-gradient(top, #79e2d1, #66BFBF);
+                background-image: -o-linear-gradient(top, #79e2d1, #66BFBF);
+                background-image: linear-gradient(to bottom, #79e2d1, #66BFBF);
+                text-decoration: none;
+                
+              }
+              .middle-container{
+                margin: 100px 0;
+              }
+              .bottom-container{
+                background-color: #66BFBF;
+                padding: 50px 0 20px;
+              }
+              .a11{
+                color: #EAF6F6;
+                font-size: 0.75rem;
+                padding: 20px 0px;
+              }
+              a{
+                color: #11999E;
+                font-family: 'Montserrat', sans-serif;
+                margin: 10px 20px;
+                text-decoration: none;
+             }
+             a:hover{
+                color: #EAF6F6 ;
+             }
+
